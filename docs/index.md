@@ -1,4 +1,2 @@
 ## test
-foo bar
-
-<./WebGLBuild/index.html>
+[webgl page](./WebGLBuild/index.html)
