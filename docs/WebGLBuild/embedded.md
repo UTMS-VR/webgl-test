@@ -1,7 +1,7 @@
 ## Embed WebGL content to markdown
 This text is written in *markdown*.
 
-<link rel="stylesheet" href="embedded.css">
+<link rel="stylesheet" href="TemplateData/style.css">
 <div id="unity-container" class="unity-desktop">
   <canvas id="unity-canvas" width=960 height=600></canvas>
   <div id="unity-loading-bar">
@@ -20,7 +20,7 @@ This text is written in *markdown*.
   </div>
 </div>
 <script>
-  var buildUrl = "WebGLBuild/Build";
+  var buildUrl = "Build";
   var loaderUrl = buildUrl + "/WebGLBuild.loader.js";
   var config = {
     dataUrl: buildUrl + "/WebGLBuild.data.unityweb",

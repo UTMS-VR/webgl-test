@@ -1,3 +1,3 @@
 ## test
-[webgl page](./WebGLBuild/index.html)
-[embedded.md](./embedded.md)
+- [webgl page](./WebGLBuild/index.html)
+- [embedded](./WebGLBuild/embedded.html)
