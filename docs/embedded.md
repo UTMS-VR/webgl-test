@@ -1,7 +1,7 @@
 ## Embed WebGL content to markdown
 This text is written in *markdown*.
 
-<link rel="stylesheet" href="WebGLBuild/TemplateData/style.css">
+<link rel="stylesheet" href="embedded.css">
 <div id="unity-container" class="unity-desktop">
   <canvas id="unity-canvas" width=960 height=600></canvas>
   <div id="unity-loading-bar">
